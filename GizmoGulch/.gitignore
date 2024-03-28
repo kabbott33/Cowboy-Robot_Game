@@ -46,6 +46,17 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.csv
+
+# Fungus stuff
+.vs/*
+UWP/*
+.idea/*
+Assets/Plugins/
+Assets/Plugins.meta
+Logs/*
+.vscode/launch.json
+CodeCoverage
 
 # Unity3D generated meta files
 *.pidb.meta
